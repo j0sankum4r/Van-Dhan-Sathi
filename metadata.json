@@ -1,0 +1,6 @@
+{
+  "name": "VanDhan Saathi - Tribal Forest Produce & Supply Chain MVP",
+  "description": "An interactive digital companion for tribal forest-produce gatherers, SHGs, and collection centres for the Seva First Innovation Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f281e" />
+      <stop offset="100%" stop-color="#1d4d38" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd56b" />
+      <stop offset="100%" stop-color="#e5a93b" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <!-- Decorative border ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#e5a93b" stroke-width="6" stroke-opacity="0.25" stroke-dasharray="8 8"/>
+  <!-- Central Tree Silhouette with Leaves -->
+  <path d="M256 100 C270 140 330 150 340 190 C348 220 330 250 310 270 C350 280 370 320 350 360 C335 390 295 400 276 400 L276 430 L236 430 L236 400 C217 400 177 390 162 360 C142 320 162 280 202 270 C182 250 164 220 172 190 C182 150 242 140 256 100 Z" fill="url(#gold)"/>
+  <!-- Audio wave arches symbolizing voice rate -->
+  <path d="M370 200 A 70 70 0 0 1 370 310" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+  <path d="M410 170 A 120 120 0 0 1 410 340" fill="none" stroke="#e5a93b" stroke-width="14" stroke-linecap="round"/>
+  <!-- VanDhan text badge -->
+  <circle cx="256" cy="265" r="28" fill="#0f281e"/>
+  <circle cx="256" cy="265" r="14" fill="#ffd56b"/>
+</svg>
